@@ -1,0 +1,25 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+html{
+ background-color: #fff;
+ font-family: 'Lato', 'Arial', san-serif;
+ Color: #555;
+ Font-weight: 300;
+ Font-size: 20px;
+ Text-rendering: optimizeLegibility;
+}
+
+h1 {
+font-family: 'Lato', sans-serif;
+}
+
+.caja {
+ height: 100px;
+ border: 1px solid red;
+ padding: 10px;
+
+}
